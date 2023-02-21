@@ -1,4 +1,4 @@
-# BMI-Calculator
+# BMI Calculator
 
 # https://reshav021.github.io/BMI-Calculator/
 
